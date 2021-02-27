@@ -1,0 +1,17 @@
+.main-nav {
+    text-align: right;
+}
+
+.hello {
+    text-align: center;
+}
+
+.hello img {
+    width: 500px;
+}
+
+.about {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}

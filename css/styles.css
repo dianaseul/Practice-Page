@@ -1,5 +1,7 @@
+
+
 .main-nav {
-    text-align: right;
+    text-align: center;
 }
 
 .hello {
@@ -14,4 +16,22 @@
     width: 800px;
     margin: auto;
     text-align: center;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.gallery {
+    text-align: center;
+    border: 2px dotted black;
+    margin: auto;
+    width: 800px;
+    padding-bottom: 20px;
+    
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+
 }
